@@ -16,7 +16,6 @@ export default defineConfig({
   base: '/',
   build: {
     rollupOptions: {
-      input: 'src/your-new-entry-file.tsx',
     },
   },
 });
